@@ -9,7 +9,7 @@ const IconLogo = () => (
     height="180.000000pt"
     viewBox="0 0 180.000000 180.000000"
     preserveAspectRatio="xMidYMid meet">
-    <metadata>Pradip Dhakal logo</metadata>
+    <metadata>Pradeep Poudel logo</metadata>
     <g
       transform="translate(0.000000,180.000000) scale(0.100000,-0.100000)"
       fill="#0a192f"

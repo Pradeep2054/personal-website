@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Pradip Dhakal',
+    title: 'Pradeep Poudel',
     description:
       'Pradip Dhkala is a software engineer from Nepal who specializes in technologies like React and Node.',
     siteUrl: 'https://dhakalpradip.com.np', // No trailing slash allowed!
